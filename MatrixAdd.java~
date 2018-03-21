@@ -13,7 +13,7 @@ class MatrixAdd
    {
     for(j=0;j<2;j++)
 {
-     athira
+     
       System.out.println(a[i][j]+" ");
       System.out.println();
      
